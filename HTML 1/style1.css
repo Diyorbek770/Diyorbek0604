@@ -1,0 +1,10 @@
+body{
+  background-color: red;
+}
+#sayt{
+  widht: 900px;
+  height: 800px;
+
+  border: 3px dotted blue;
+  border-radius: 20px;
+}

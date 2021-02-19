@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  text-align: center;
+font-family:  'Sacramento', sans-serif;
+
+}
+h1 {
+  color: #66BFBF;
+line-height: 2;
+font-size: 50px;
+margin: 0;
+font-family:  'Sacramento', sans-serif;
+}
+
+h2{
+  color: #66BFBF;
+  font-family:  'Montserrat', sans-serif;
+
+}
+
+h3{
+  color:#11999E;;
+font-family:  'Montserrat', sans-serif;
+}
+
+.sayt{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+  /*border: 5px double red;  */
+  /*border-top: 5px dashed blue;
+  border-bottom: 5px dashed red;
+  border-left: 5px dashed green;
+  border-right: 5px dashed black;*/
+}
+ .boshlanish{
+background-color: #E4F9F5;
+}
+.asosiy{
+background-color: #E4F9F5;
+}
+
+.dasturchiman{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+
+}
+.top-cloud{
+  position: absolute;
+left: 900px;
+bottom: 500px;
+}
+.skill-row{
+  background-color: #E4F9F5;
+}
+.rasm{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
